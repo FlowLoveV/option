@@ -32,4 +32,9 @@ After completing the result structure, I will complete the above function
 [cpptrace](https://github.com/jeremy-rifkin/cpptrace)
 
 ## how to use
-just include the header `option.hpp`(don't forget to include the cpptrace library's path)
+install [xmake](https://xmake.io/#/) first 
+```
+xmake install cpptrace
+xmake build test
+xmake run test
+```
