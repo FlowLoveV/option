@@ -1,0 +1,5 @@
+BasedOnStyle: Google
+# 禁用注释换行
+ColumnLimit:  120
+
+# code style : rust
