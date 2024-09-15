@@ -1,5 +1,7 @@
 # Introduction
 
+This library has been merged into [utils](https://github.com/FlowLoveV/utils) and will no longer be updated. Please move to [utils](https://github.com/FlowLoveV/utils).
+
 ## Implemented functions
 - `is_some`
 - `is_none`
